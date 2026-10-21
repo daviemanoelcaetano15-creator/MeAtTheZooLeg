@@ -1,0 +1,5 @@
+1 00:00:01,000 --> 00:00:03,500 Alright, so here we are in front of the elephants.
+2 00:00:04,500 --> 00:00:13,500 And the cool thing about these guys is that they have really,
+really, really long trunks.
+3 00:00:13,500 --> 00:00:15,000 And that's... that's cool.
+4 00:00:16,500 --> 00:00:19,000 And that's pretty much all there is to say.
